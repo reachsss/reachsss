@@ -1,5 +1,8 @@
 ## 👋
 
+# B.U.T. Informatique ⏳
+⏳
+
 # Baccalauréat Général 2026
 - NSI -> 20
 - Grand Oral (NSI - Google Maps/Dijkstra) -> 20

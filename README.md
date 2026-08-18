@@ -10,6 +10,9 @@
   
 Mention Très Bien ✅
 
+# Intérêts 
+J'aime proposer des solutions pour des problèmes concrets, et automatiser des tâches. 
+
 <!--
 **reachsss/reachsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,4 @@
-## 👋
+## 👋 Hey
 
 # B.U.T. Informatique ⏳
 ⏳

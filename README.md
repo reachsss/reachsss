@@ -2,6 +2,7 @@
 
 # B.U.T. Informatique ⏳
 ⏳
+- Certificat professionnel Google AI
 
 # Baccalauréat Général - 2026
 - NSI -> 20

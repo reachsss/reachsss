@@ -2,7 +2,6 @@
 
 # B.U.T. Informatique ⏳
 ⏳
-- Certificat professionnel Google AI
 
 # Baccalauréat Général - 2026
 - NSI -> 20
@@ -10,6 +9,10 @@
 - Mathématiques -> 17
   
 Mention Très Bien ✅
+
+# Certifications
+- Google AI Professional (AI for App Deployment, App Building, Data Analysis...)
+- Google AI Essentials
 
 # Intérêts 
 J'aime proposer des solutions pour des problèmes concrets, et automatiser des tâches. 

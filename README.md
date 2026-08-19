@@ -1,20 +1,18 @@
-## 👋 Hey
-
-# B.U.T. Informatique ⏳
+# **B.U.T. Informatique** ⏳
 ⏳
 
-# Baccalauréat Général - 2026
+# **Baccalauréat Général** - 2026
 - NSI -> 20
 - Grand Oral (NSI - Google Maps/Dijkstra) -> 20
 - Mathématiques -> 17
   
 Mention Très Bien ✅
 
-# Certifications
+# **Certifications**
 - Google AI Professional (AI for App Deployment, App Building, Data Analysis...)
 - Google AI Essentials
 
-# Intérêts 
+# **Intérêts** 
 J'aime proposer des solutions pour des problèmes concrets, et automatiser des tâches. 
 
 <!--

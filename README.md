@@ -1,19 +1,27 @@
-# **B.U.T. Informatique** ⏳
+# B.U.T. Informatique ⏳
 ⏳
 
-# **Baccalauréat Général** - 2026
+# Baccalauréat Général - 2026
 - NSI -> 20
 - Grand Oral (NSI - Google Maps/Dijkstra) -> 20
 - Mathématiques -> 17
   
 Mention Très Bien ✅
 
-# **Certifications**
+# Certifications
 - Google AI Professional (AI for App Deployment, App Building, Data Analysis...)
 - Google AI Essentials
 
-# **Intérêts** 
+# Technologies maitrisés
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,py,mysql" />
+  </a>
+</p>
+
+# Intérêts
 J'aime proposer des solutions pour des problèmes concrets, et automatiser des tâches. 
+
 
 <!--
 **reachsss/reachsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

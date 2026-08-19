@@ -12,8 +12,8 @@ Mention Très Bien ✅
 - Google AI Professional (AI for App Deployment, App Building, Data Analysis...)
 - Google AI Essentials
 
-# Technologies maitrisés
-<p align="center">
+# Technologies maitrisées
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,c,py,mysql" />
   </a>
@@ -36,4 +36,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,py,mysql" />
+  </a>
+</p>
+
 -->

@@ -15,7 +15,7 @@ Mention Très Bien ✅
 # Technologies maitrisées
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,py,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,mysql" />
   </a>
 </p>
 

@@ -20,7 +20,8 @@ Mention Très Bien ✅
 </p>
 
 # Intérêts
-J'aime proposer des solutions pour des problèmes concrets, et automatiser des tâches. 
+J'aime proposer des solutions pour des problèmes concrets, et automatiser des tâches.
+Mon attention se porte vers le DevOps, le SysAdmin, l'informatique embarquée, et bien plus de domaines.  
 
 
 <!--

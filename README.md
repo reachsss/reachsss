@@ -2,9 +2,9 @@
 ⏳
 
 # Baccalauréat Général - 2026
-- NSI -> 20
-- Mathématiques -> 17
-- Grand Oral (NSI - Google Maps/Dijkstra) -> 20
+- NSI ➜ 20
+- Mathématiques ➜ 17
+- Grand Oral (NSI - Google Maps/Dijkstra) ➜ 20
   
 Mention Très Bien ✅
 

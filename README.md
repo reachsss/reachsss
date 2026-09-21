@@ -15,7 +15,7 @@ Mention Très Bien ✅
 # Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,mysql,bash" />
   </a>
 </p>
 

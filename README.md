@@ -12,7 +12,7 @@ Mention Très Bien ✅
 - Google AI Professional (AI for App Deployment, App Building, Data Analysis...)
 - Google AI Essentials
 
-# Technologies
+# Technologies ±
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,c,mysql,linux,bash" />

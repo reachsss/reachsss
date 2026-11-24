@@ -11,6 +11,9 @@ Mention Très Bien ✅
 # Certifications
 - Google AI Professional (AI for App Deployment, App Building, Data Analysis...)
 - Google AI Essentials
+- Claude Academy: Claude 101
+- Claude Academy: Claude Platform 101
+- Claude Academy: Claude Code 101
 
 # Technologies ±
 <p align="left">
